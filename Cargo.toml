@@ -15,7 +15,7 @@ libc          = "0.2"
 xkbcommon-sys = "0.7.3"
 
 [dependencies.xcb]
-version  = "0.7"
+version  = "0.8.1"
 features = ["xkb"]
 optional = true
 
